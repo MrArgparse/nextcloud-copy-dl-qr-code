@@ -7,8 +7,8 @@
 // @match        *://*/apps/files/files/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=nextcloud.com
 // @grant        GM_setClipboard
-// @downloadURL  https://raw.githubusercontent.com/MrArgparse/nextcloud-copy-dl-qr-code/main/nextcloud-copy-dl-qr-code.js
-// @updateURL    https://raw.githubusercontent.com/MrArgparse/nextcloud-copy-dl-qr-code/main/nextcloud-copy-dl-qr-code.js
+// @downloadURL  https://raw.githubusercontent.com/MrArgparse/nextcloud-copy-dl-qr-code/main/nextcloud-copy-dl-qr-code.user.js
+// @updateURL    https://raw.githubusercontent.com/MrArgparse/nextcloud-copy-dl-qr-code/main/nextcloud-copy-dl-qr-code.user.js
 // ==/UserScript==
 
 (function () {
