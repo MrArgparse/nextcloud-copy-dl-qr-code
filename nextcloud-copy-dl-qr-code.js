@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Add copy and QR code buttons to Nextcloud
 // @author       MrArgparse
-// @match        *://*apps/files/files/*&opendetails=true
+// @match        *://*/apps/files/files/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=nextcloud.com
 // @grant        GM_setClipboard
 // @downloadURL  https://raw.githubusercontent.com/MrArgparse/nextcloud-copy-dl-qr-code/main/nextcloud-copy-dl-qr-code.js
