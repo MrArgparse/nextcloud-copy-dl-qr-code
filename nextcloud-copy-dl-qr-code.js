@@ -1,13 +1,14 @@
-﻿// ==UserScript==
-// @name         Nextcloud Copy Download Link + QR Popup
-// @namespace    https://github.com/MrArgparse/nextcloud-copy-dl-qr-code
+// ==UserScript==
+// @name         Nextcloud Copy DL QR Code
+// @namespace    https://github.com/MrArgparse
 // @version      1.0
-// @description  Adds a QR popup and copy button beside share link in Nextcloud
+// @description  Add copy and QR code buttons to Nextcloud
+// @author       MrArgparse
 // @match        *://*apps/files/files/*&opendetails=true
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=nextcloud.com
+// @grant        GM_setClipboard
 // @downloadURL  https://raw.githubusercontent.com/MrArgparse/nextcloud-copy-dl-qr-code/main/nextcloud-copy-dl-qr-code.js
 // @updateURL    https://raw.githubusercontent.com/MrArgparse/nextcloud-copy-dl-qr-code/main/nextcloud-copy-dl-qr-code.js
-// @grant        GM_setClipboard
-// @license      MIT
 // ==/UserScript==
 
 (function () {
